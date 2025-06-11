@@ -1,7 +1,5 @@
 # 👋 WELCOME TO MY GITHUB PAGE 👋
-
-Hi, I’m **Nguyen Dung** – an AI enthusiast specialized in **LLMs, Chatbots and LangChain**.  
-I'm passionate about building intelligent systems using OpenAI, Python and open-source tools.
+Hi 👋! My name is Nguyen Dung you can call me Austin Nguyen and I'm an AI engineer and Data Scientist from Viet Nam
 
 📌 Current Focus:
 - LangChain-powered intelligent agents
