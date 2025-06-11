@@ -1,5 +1,5 @@
 # 👋 WELCOME TO MY GITHUB PAGE 👋
-Hi 👋! My name is Nguyen Dung you can call me Austin Nguyen and I'm an AI engineer and Data Scientist from Viet Nam
+Hi 👋! My name is **Nguyen Dung** you can call me **Austin Nguyen** and I'm an AI engineer and Data Scientist from Viet Nam
 
 📌 Current Focus:
 - LangChain-powered intelligent agents
