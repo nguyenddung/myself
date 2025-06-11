@@ -13,7 +13,7 @@ Hi 👋! My name is **Nguyen Dung** you can call me **Austin Nguyen** and I'm an
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/your-username)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&style=flat)](https://youtube.com/@your-channel)
-[![Facebook](https://www.facebook.com/nguyen.dung.886857?locale=vi_VN)
+[![Facebook]()(https://www.facebook.com/nguyen.dung.886857?locale=vi_VN)
 
 ---
 
